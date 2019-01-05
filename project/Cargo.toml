@@ -1,0 +1,7 @@
+[package]
+name = "project"
+version = "0.1.0"
+authors = ["Max Zhou <mz282@cornell.edu>"]
+
+[dependencies]
+primal = "0.2.3"
